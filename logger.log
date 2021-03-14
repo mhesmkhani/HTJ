@@ -1,0 +1,117 @@
+2021-03-14 11:44:57.764  INFO 10036 --- [main] html.to.json.HtjApplication              : Starting HtjApplication using Java 1.8.0_102 on DESKTOP-E0G63CJ with PID 10036 (E:\workspace\java\HTJ\target\classes started by mhesmkhani in E:\workspace\java\HTJ)
+2021-03-14 11:44:57.767  INFO 10036 --- [main] html.to.json.HtjApplication              : No active profile set, falling back to default profiles: default
+2021-03-14 11:44:58.282  INFO 10036 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$c9be97fb] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-14 11:44:58.320  INFO 10036 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2021-03-14 11:44:58.676  INFO 10036 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1000 (http)
+2021-03-14 11:44:58.683  INFO 10036 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-14 11:44:58.684  INFO 10036 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-14 11:44:58.755  INFO 10036 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-14 11:44:58.755  INFO 10036 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 949 ms
+2021-03-14 11:44:58.894  INFO 10036 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-14 11:44:59.060  INFO 10036 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1000 (http) with context path ''
+2021-03-14 11:44:59.073  INFO 10036 --- [main] html.to.json.HtjApplication              : Started HtjApplication in 1.628 seconds (JVM running for 1.982)
+2021-03-14 11:45:04.293  INFO 10036 --- [http-nio-1000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-14 11:45:04.293  INFO 10036 --- [http-nio-1000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-03-14 11:45:04.294  INFO 10036 --- [http-nio-1000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-03-14 11:46:13.046  INFO 16204 --- [main] html.to.json.HtjApplication              : Starting HtjApplication using Java 1.8.0_102 on DESKTOP-E0G63CJ with PID 16204 (E:\workspace\java\HTJ\target\classes started by mhesmkhani in E:\workspace\java\HTJ)
+2021-03-14 11:46:13.048  INFO 16204 --- [main] html.to.json.HtjApplication              : No active profile set, falling back to default profiles: default
+2021-03-14 11:46:13.549  INFO 16204 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$743e9729] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-14 11:46:13.586  INFO 16204 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2021-03-14 11:46:13.945  INFO 16204 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1000 (http)
+2021-03-14 11:46:13.952  INFO 16204 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-14 11:46:13.952  INFO 16204 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-14 11:46:14.028  INFO 16204 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-14 11:46:14.028  INFO 16204 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 941 ms
+2021-03-14 11:46:14.166  INFO 16204 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-14 11:46:14.323  INFO 16204 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1000 (http) with context path ''
+2021-03-14 11:46:14.329  INFO 16204 --- [main] html.to.json.HtjApplication              : Started HtjApplication in 1.609 seconds (JVM running for 1.909)
+2021-03-14 11:46:17.715  INFO 16204 --- [http-nio-1000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-14 11:46:17.715  INFO 16204 --- [http-nio-1000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-03-14 11:46:17.716  INFO 16204 --- [http-nio-1000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-03-14 11:46:23.901  INFO 13904 --- [main] html.to.json.HtjApplication              : Starting HtjApplication using Java 1.8.0_102 on DESKTOP-E0G63CJ with PID 13904 (E:\workspace\java\HTJ\target\classes started by mhesmkhani in E:\workspace\java\HTJ)
+2021-03-14 11:46:23.903  INFO 13904 --- [main] html.to.json.HtjApplication              : No active profile set, falling back to default profiles: default
+2021-03-14 11:46:24.419  INFO 13904 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$50afb6b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-14 11:46:24.457  INFO 13904 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2021-03-14 11:46:24.903  INFO 13904 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1000 (http)
+2021-03-14 11:46:24.910  INFO 13904 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-14 11:46:24.910  INFO 13904 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-14 11:46:24.985  INFO 13904 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-14 11:46:24.985  INFO 13904 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1045 ms
+2021-03-14 11:46:25.131  INFO 13904 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-14 11:46:25.296  INFO 13904 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1000 (http) with context path ''
+2021-03-14 11:46:25.310  INFO 13904 --- [main] html.to.json.HtjApplication              : Started HtjApplication in 1.736 seconds (JVM running for 2.187)
+2021-03-14 11:46:35.239  INFO 2492 --- [main] html.to.json.HtjApplication              : Starting HtjApplication using Java 1.8.0_102 on DESKTOP-E0G63CJ with PID 2492 (E:\workspace\java\HTJ\target\classes started by mhesmkhani in E:\workspace\java\HTJ)
+2021-03-14 11:46:35.241  INFO 2492 --- [main] html.to.json.HtjApplication              : No active profile set, falling back to default profiles: default
+2021-03-14 11:46:35.753  INFO 2492 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$77c86cf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-14 11:46:35.791  INFO 2492 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2021-03-14 11:46:36.160  INFO 2492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1000 (http)
+2021-03-14 11:46:36.167  INFO 2492 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-14 11:46:36.167  INFO 2492 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-14 11:46:36.237  INFO 2492 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-14 11:46:36.237  INFO 2492 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 955 ms
+2021-03-14 11:46:36.374  INFO 2492 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-14 11:46:36.530  INFO 2492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 1000 (http) with context path ''
+2021-03-14 11:46:36.544  INFO 2492 --- [main] html.to.json.HtjApplication              : Started HtjApplication in 1.668 seconds (JVM running for 2.07)
+2021-03-14 11:46:39.012  INFO 2492 --- [http-nio-1000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-03-14 11:46:39.012  INFO 2492 --- [http-nio-1000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-03-14 11:46:39.013  INFO 2492 --- [http-nio-1000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2021-03-14 11:47:46.740  INFO 9744 --- [main] html.to.json.HtjApplication              : Starting HtjApplication using Java 1.8.0_102 on DESKTOP-E0G63CJ with PID 9744 (E:\workspace\java\HTJ\target\classes started by mhesmkhani in E:\workspace\java\HTJ)
+2021-03-14 11:47:46.742  INFO 9744 --- [main] html.to.json.HtjApplication              : No active profile set, falling back to default profiles: default
+2021-03-14 11:47:47.259  INFO 9744 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$e6cf1824] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-14 11:47:47.321  INFO 9744 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2021-03-14 11:47:47.735  INFO 9744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1000 (http)
+2021-03-14 11:47:47.742  INFO 9744 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-14 11:47:47.742  INFO 9744 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-14 11:47:47.817  INFO 9744 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-14 11:47:47.817  INFO 9744 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1035 ms
+2021-03-14 11:47:47.968  INFO 9744 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-14 11:47:48.129  WARN 9744 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 1000 is already in use
+2021-03-14 11:47:48.129  INFO 9744 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-14 11:47:48.131  INFO 9744 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2021-03-14 11:47:48.197  INFO 9744 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-03-14 11:47:48.210 ERROR 9744 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 1000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 1000 or configure this application to listen on another port.
+
+2021-03-14 11:49:12.974  INFO 10148 --- [main] html.to.json.HtjApplication              : Starting HtjApplication using Java 1.8.0_102 on DESKTOP-E0G63CJ with PID 10148 (E:\workspace\java\HTJ\target\classes started by mhesmkhani in E:\workspace\java\HTJ)
+2021-03-14 11:49:12.976  INFO 10148 --- [main] html.to.json.HtjApplication              : No active profile set, falling back to default profiles: default
+2021-03-14 11:49:13.521  INFO 10148 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$700f3263] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-14 11:49:13.559  INFO 10148 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2021-03-14 11:49:13.919  INFO 10148 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 1000 (http)
+2021-03-14 11:49:13.926  INFO 10148 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-14 11:49:13.926  INFO 10148 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-14 11:49:14.001  INFO 10148 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-14 11:49:14.001  INFO 10148 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 957 ms
+2021-03-14 11:49:14.143  INFO 10148 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-14 11:49:14.297  WARN 10148 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 1000 is already in use
+2021-03-14 11:49:14.297  INFO 10148 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-14 11:49:14.299  INFO 10148 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2021-03-14 11:49:14.358  INFO 10148 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-03-14 11:49:14.370 ERROR 10148 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 1000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 1000 or configure this application to listen on another port.
+
