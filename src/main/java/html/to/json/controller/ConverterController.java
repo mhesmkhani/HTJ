@@ -1,5 +1,6 @@
 package html.to.json.controller;
 
+import html.to.json.pattern.Pattern;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -18,27 +19,13 @@ import java.util.Map;
  */
 @RestController
 @RequestMapping(path = "/api")
-public class ConverterController {
+public class ConverterController extends Pattern{
     @PostMapping(path = "/converter")
     public ResponseEntity<Map> InsertHtml(HttpServletRequest request) throws Exception {
         try {
-            final String HTML = request.getParameter("code");
-            Document document = Jsoup.parse(HTML);
-            Element table = document.select("table").first();
-            String arrayName = "result";
-            Map jsonObj = new HashMap();
-            Map jsonArr = new HashMap();
-            Map jo = new HashMap();
-            Elements ttls = table.getElementsByClass("ttl");
-            Elements nfos = table.getElementsByClass("nfo");
-            for (int i = 0, l = ttls.size(); i < l; i++) {
-                String key = ttls.get(i).text();
-                String value = nfos.get(i).text();
-                jo.put(key, value);
-            }
-            jsonArr.put("data",jo);
-            jsonObj.put(arrayName, jsonArr);
-            return ResponseEntity.status(200).body(jsonObj);
+            Pattern pattern = new Pattern();
+         return  pattern.AddClassToTag(request.getParameter("code"));
+
         }catch (Exception e){
             e.printStackTrace();
         }
